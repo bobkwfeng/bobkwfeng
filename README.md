@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bob
 - 👀 I’m interested in all interesting projects
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on JS projects
+- 💞️ I’m looking to collaborate on JAVA/JS/TS projects
 - 📫 bobkwfeng@gmail.com
 
 <!---
